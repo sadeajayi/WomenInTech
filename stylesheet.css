@@ -1,0 +1,92 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.rower{
+margin: 2rem 1.5rem 1.5rem;
+mar
+}
+container{
+	width:100%;
+}
+body, html{
+	font-size: 10px;
+	margin-bottom: 2rem;
+	background-color: #f6f3ee;
+	font-family: 'Open Sans', sans-serif;
+}
+#newest{
+	padding-top: 2rem;
+}
+.womanheader{
+	padding:3rem;
+
+}
+
+.describe p{
+	padding: 0 2rem;
+	text-align: center;
+	font-size: 1.8rem;
+	font-weight: 300;
+	line-height: 1.6;
+}
+
+.formid{
+	background-color: transparent;
+	color: #000;
+	font-size: 1.6rem;
+	padding: 2rem 4rem;
+	/*background-image: url("back.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+*/
+}
+
+label.error {
+  color: rgb(202, 41, 34);
+  font-size: 11px;
+  font-weight: normal;
+  margin-bottom: 5px;
+}
+
+.pic{
+	width:100%;
+}
+
+.footer{
+	width:100%;
+}
+
+.header{
+	font-size: 4rem;
+	background-color: transparent;
+	padding:1rem 2rem;
+}
+
+.women{
+	font-family: sans-serif;
+	font-size: 2.6rem;
+	color: #034679;
+	text-align: center;
+}
+
+.picture{
+	width:200px;
+	margin: auto;
+	display: block;
+}
+
+.info{
+	font-size: 20px;
+}
+
+.end p{
+	font-size: 1.3rem;
+	margin: 0 0 5px;
+}
+
+h3{
+	color: #f00;
+	font-size: 1.3rem;
+}
